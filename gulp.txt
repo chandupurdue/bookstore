@@ -1,0 +1,11 @@
+gulp build system which allows you to do many things with one command it compress and concatcate any images and javascript files and it compile SASS files. Reload page.
+gulp is a task manager.tonnes of flexibility.
+to install
+----------
+npm install -g gulp.
+we have to be in root directory.
+npm install --save-dev gulp.
+it is set of instructions for gulp to do.
+it is written in it javascript.
+gulp command in cmd.
+npm install gulp-uglify --save-dev .this command minify the javascript.
